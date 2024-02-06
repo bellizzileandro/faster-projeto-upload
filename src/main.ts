@@ -55,7 +55,7 @@ async function bootstrap() {
 
   const config = new DocumentBuilder()
     .setTitle('Teste desenvolvedor')
-    .setDescription('API Rest para o teste de desenvolvedor Pricemet')
+    .setDescription('API Rest para o teste de desenvolvedor senior')
     .setVersion('1.0')
     .build();
 
